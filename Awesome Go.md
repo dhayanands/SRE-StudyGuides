@@ -1,7 +1,4 @@
----
-share: true
----  
-
+# Awesome Go Links
 
 |description|link|
 |--|--|
